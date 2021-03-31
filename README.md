@@ -1,6 +1,5 @@
 # KNN-Recommender-Model
 
-# KNN Movie Recommender
 This project contains 30 movies with nine features, such as rating and category association. This model uses the KNN algorithm to predict the most similar or most closely related items. It is a scaled down version that attempts to mimic a recommender system from a large streaming service such as Netflix or Hulu. 
 
 ## Steps
